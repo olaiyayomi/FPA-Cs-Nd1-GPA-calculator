@@ -1,0 +1,36 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+    background-color: rgb(85, 85, 67);
+    border-radius: 30px;}
+    #backToName{
+        float: left; 
+        font-size: 35px; 
+        text-decoration: none;
+        }
+    #backToName:hover{
+        border: 5px solid red;
+    }
+#text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#text2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}
+footer{
+    position: fixed; 
+    text-align:center; 
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+  
+ }

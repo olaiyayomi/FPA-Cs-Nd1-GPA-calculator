@@ -1,0 +1,34 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#head{
+    color: white;
+    background-color: rgba(23, 70, 140, 0.431);
+    text-align: center;
+    border-radius: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+#text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#backToName{
+    float: left; 
+    font-size: 35px; 
+    text-decoration: none;
+    }
+#backToName:hover{
+    border: 5px solid red;
+}
+a{
+    color: red;
+}
+a:hover{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+}

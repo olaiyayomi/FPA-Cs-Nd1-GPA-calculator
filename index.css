@@ -1,0 +1,81 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500px;
+    
+}
+#head{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#div1{
+    background-color: transparent;
+    text-align: center;
+    line-height: 20px;
+}
+a{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+   
+}
+ul a{
+   padding: 14px 16px;
+   border-radius: 30px;
+   padding-left: 85px;
+   padding-right: 85px;
+}
+@media screen and (max-width: 370px) { 
+#a {
+        float: left;
+        color: white;
+        padding-left:40px;
+        padding-right: 40px;
+        text-align: center;
+        margin-left: 10px
+        
+}
+#a2 {
+        float: right;
+        color: white;
+        padding-left: 40px;
+        padding-right: 40px;
+        text-align: center;
+        margin-right: 34px;
+}
+}
+#stu_pro{
+   padding: 14px 16px;
+   border-radius: 30px;
+   padding-left: 85px;
+   padding-right: 85px;
+}
+#Abo_us{
+   padding: 14px 16px;
+   border-radius: 30px;
+   padding-left: 85px;
+   padding-right: 85px;
+}
+ul a:hover{
+   color: aqua;
+   background-color: rgb(26, 34, 34);
+}
+ a:hover{
+   color: aqua;
+   background-color: rgb(26, 34, 34);
+}
+footer{
+    position: fixed; 
+    text-align:center; 
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+ }
