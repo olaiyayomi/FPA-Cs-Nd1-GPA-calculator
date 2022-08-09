@@ -33,7 +33,7 @@ ul a{
    padding-left: 85px;
    padding-right: 85px;
 }
-@media screen and (max-width: 370px) { 
+@media screen and (max-width: 700px) { 
 #a {
         float: left;
         color: white;
